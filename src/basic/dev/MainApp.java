@@ -27,7 +27,7 @@ public class MainApp {
 		x[i] = sc.nextInt();
 		}
 	}
-	//in mang
+	
 	static void expArr(int []x) {
 		for(int i = 0 ; i < x.length; i++) {
 			System.out.printf("%d\t ", x[i]);
